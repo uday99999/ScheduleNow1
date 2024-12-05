@@ -34,4 +34,10 @@
     <PackageReference Include="SSH.NET" Version="2024.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Logs\WorxLog-20241125.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
