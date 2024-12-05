@@ -1,0 +1,326 @@
+2024-07-02 16:39:42:750 Task started.
+2024-07-02 16:39:42:999 Fetching data from table: dbo.products
+2024-07-02 16:39:43:427 Fetched 18 records from table: dbo.products
+2024-07-02 16:39:43:649 Writing records to CSV file: C:\docs\yourfile.csv
+2024-07-02 16:39:43:717 Writing to CSV file completed.
+2024-07-02 16:39:43:719 Task completed.
+2024-07-02 16:45:51:639 Task started.
+2024-07-02 16:45:51:783 Fetching data from table: dbo.products
+2024-07-02 16:45:52:448 Fetched 18 records from table: dbo.products
+2024-07-02 16:45:52:460 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile.csv
+2024-07-02 16:45:52:527 Writing to CSV file completed.
+2024-07-02 16:45:52:531 Task completed.
+2024-07-02 16:46:16:092 Task started.
+2024-07-02 16:46:16:128 Fetching data from table: dbo.products
+2024-07-02 16:46:16:539 Fetched 18 records from table: dbo.products
+2024-07-02 16:46:16:558 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile.csv
+2024-07-02 16:46:16:624 Writing to CSV file completed.
+2024-07-02 16:46:16:625 Task completed.
+2024-07-02 16:49:16:080 Task started.
+2024-07-02 16:49:16:154 Fetching data from table: dbo.products
+2024-07-02 16:49:16:827 Fetched 18 records from table: dbo.products
+2024-07-02 16:49:16:838 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-{0:yyyyMMdd}.csv
+2024-07-02 16:49:16:903 Writing to CSV file completed.
+2024-07-02 16:49:16:904 Task completed.
+2024-07-02 17:05:54:369 Task started.
+2024-07-02 17:05:54:424 Fetching data from table: dbo.products
+2024-07-02 17:05:55:178 Fetched 18 records from table: dbo.products
+2024-07-02 17:05:55:194 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-{0:yyyyMMdd}.csv
+2024-07-02 17:05:55:280 Writing to CSV file completed.
+2024-07-02 17:05:55:283 Task completed.
+2024-07-02 17:06:58:737 Task started.
+2024-07-02 17:06:58:798 Fetching data from table: dbo.products
+2024-07-02 17:06:59:267 Fetched 18 records from table: dbo.products
+2024-07-02 17:06:59:279 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 17:06:59:337 Writing to CSV file completed.
+2024-07-02 17:06:59:340 Task completed.
+2024-07-02 17:08:34:009 Task started.
+2024-07-02 17:08:34:050 Fetching data from table: dbo.products
+2024-07-02 17:08:34:445 Fetched 18 records from table: dbo.products
+2024-07-02 17:08:34:456 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 17:08:34:511 Writing to CSV file completed.
+2024-07-02 17:08:34:512 Task completed.
+2024-07-02 18:20:51:181 Task started.
+2024-07-02 18:20:51:454 Fetching data from table: dbo.products
+2024-07-02 18:20:51:711 Fetched 18 records from table: dbo.products
+2024-07-02 18:20:52:007 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:20:52:048 Writing to CSV file completed.
+2024-07-02 18:20:52:053 Task completed.
+2024-07-02 18:21:00:158 Task started.
+2024-07-02 18:21:00:180 Fetching data from table: dbo.products
+2024-07-02 18:21:00:411 Fetched 18 records from table: dbo.products
+2024-07-02 18:21:00:417 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:21:00:459 Writing to CSV file completed.
+2024-07-02 18:21:00:463 Task completed.
+2024-07-02 18:22:00:502 Task started.
+2024-07-02 18:22:00:528 Fetching data from table: dbo.products
+2024-07-02 18:22:00:799 Fetched 18 records from table: dbo.products
+2024-07-02 18:22:00:803 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:22:00:843 Writing to CSV file completed.
+2024-07-02 18:22:00:845 Task completed.
+2024-07-02 18:22:23:515 Task started.
+------------------------------
+2024-07-02 18:22:23:743 Fetching data from table: dbo.products
+2024-07-02 18:22:24:014 Fetched 18 records from table: dbo.products
+2024-07-02 18:22:24:293 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:22:24:337 Writing to CSV file completed.
+2024-07-02 18:22:24:338 Task completed.
+------------------------------
+2024-07-02 18:23:38:253 ------------------------------
+Task started.
+2024-07-02 18:23:38:493 Fetching data from table: dbo.products
+2024-07-02 18:23:38:823 Fetched 18 records from table: dbo.products
+2024-07-02 18:23:39:077 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:23:39:113 Writing to CSV file completed.
+2024-07-02 18:23:39:116 Task completed.
+------------------------------
+2024-07-02 18:24:54:246 --------------------------------
+2024-07-02 18:24:54:264 Task started.
+2024-07-02 18:24:54:486 Fetching data from table: dbo.products
+2024-07-02 18:24:54:741 Fetched 18 records from table: dbo.products
+2024-07-02 18:24:55:002 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:24:55:046 Writing to CSV file completed.
+2024-07-02 18:24:55:047 Task completed.
+------------------------------
+2024-07-02 18:25:34:570 --------------------------------
+2024-07-02 18:25:34:585 Task started.
+2024-07-02 18:25:34:769 Fetching data from table: dbo.products
+2024-07-02 18:25:35:060 Fetched 18 records from table: dbo.products
+2024-07-02 18:25:35:342 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:25:35:381 Writing to CSV file completed.
+2024-07-02 18:25:35:383 Task completed.
+------------------------------
+2024-07-02 18:25:47:705 --------------------------------
+2024-07-02 18:25:47:721 Task started.
+2024-07-02 18:25:47:728 Fetching data from table: dbo.products
+2024-07-02 18:25:47:956 Fetched 18 records from table: dbo.products
+2024-07-02 18:25:47:962 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:25:48:000 Writing to CSV file completed.
+2024-07-02 18:25:48:005 Task completed.
+------------------------------
+2024-07-02 18:26:37:917 --------------------------------
+2024-07-02 18:26:37:938 Task started.
+2024-07-02 18:26:38:266 Fetching data from table: dbo.products
+2024-07-02 18:26:38:521 Fetched 18 records from table: dbo.products
+2024-07-02 18:26:38:868 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:26:38:910 Writing to CSV file completed.
+2024-07-02 18:26:38:912 Task completed.
+------------------------------
+2024-07-02 18:27:43:505 --------------------------------
+2024-07-02 18:27:43:524 Task started.
+2024-07-02 18:27:43:793 Fetching data from table: dbo.products
+2024-07-02 18:27:44:050 Fetched 18 records from table: dbo.products
+2024-07-02 18:27:44:334 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:27:44:378 Writing to CSV file completed.
+2024-07-02 18:27:44:380 Task completed.
+------------------------------
+2024-07-02 18:28:54:617 Task started.
+2024-07-02 18:28:54:873 Fetching data from table: dbo.products
+2024-07-02 18:28:55:157 Fetched 18 records from table: dbo.products
+2024-07-02 18:28:55:404 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:28:55:447 Writing to CSV file completed.
+2024-07-02 18:28:55:448 Task completed.
+------------------------------
+2024-07-02 18:30:47:727 Task started.
+2024-07-02 18:30:47:745 Fetching data from table: dbo.products
+2024-07-02 18:30:47:984 Fetched 18 records from table: dbo.products
+2024-07-02 18:30:47:990 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240702.csv
+2024-07-02 18:30:48:027 Writing to CSV file completed.
+2024-07-02 18:30:48:033 Task completed.
+------------------------------
+2024-07-02 18:32:06:357 Task started.
+2024-07-02 18:32:06:463 Fetching data from table: dbo.products
+2024-07-02 18:32:06:973 An error occurred during task execution.
+2024-07-02 18:32:57:801 Task started.
+2024-07-02 18:32:57:889 Fetching data from table: dbo.products
+2024-07-02 18:32:58:402 An error occurred during task execution.Invalid object name 'dbo.productsa'.
+2024-07-02 18:35:47:558 Task started.
+2024-07-02 18:35:47:578 Fetching data from table: dbo.products
+2024-07-02 18:35:47:803 An error occurred during task execution.Invalid object name 'dbo.productsa'.
+2024-07-02 18:38:29:429 Task started.
+2024-07-02 18:38:29:491 Fetching data from table: dbo.products
+2024-07-02 18:38:29:943 An error occurred during task execution.Invalid object name 'dbo.productsa'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.productsa'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1156
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1184
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 815
+   at Dapper.SqlMapper.Query(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 737
+   at DatabaseHelper.GetDataFromTable(String tableName, IConfiguration configuration, ILogger logger) in C:\Users\udayp\source\repos\ScheduleNow1\DatabaseHelper.cs:line 23
+   at Program.Main(String[] args) in C:\Users\udayp\source\repos\ScheduleNow1\Program.cs:line 60
+ClientConnectionId:96fbd6d6-8d29-4421-8d4f-22fa23718f68
+Error Number:208,State:1,Class:16
+2024-07-02 18:39:05:345 Task started.
+2024-07-02 18:39:05:417 Fetching data from table: dbo.products
+2024-07-02 18:39:05:852 An error occurred during task execution.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.productsa'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1156
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1184
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 815
+   at Dapper.SqlMapper.Query(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 737
+   at DatabaseHelper.GetDataFromTable(String tableName, IConfiguration configuration, ILogger logger) in C:\Users\udayp\source\repos\ScheduleNow1\DatabaseHelper.cs:line 23
+   at Program.Main(String[] args) in C:\Users\udayp\source\repos\ScheduleNow1\Program.cs:line 60
+ClientConnectionId:20ce8e7b-49a8-4db8-9e84-afd9b9e35d0b
+Error Number:208,State:1,Class:16
+2024-07-02 18:40:32:799 Task started.
+{-----------}2024-07-02 18:40:32:875 Fetching data from table: dbo.products
+{-----------}2024-07-02 18:40:33:324 An error occurred during task execution.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.productsa'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1156
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1184
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 815
+   at Dapper.SqlMapper.Query(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 737
+   at DatabaseHelper.GetDataFromTable(String tableName, IConfiguration configuration, ILogger logger) in C:\Users\udayp\source\repos\ScheduleNow1\DatabaseHelper.cs:line 23
+   at Program.Main(String[] args) in C:\Users\udayp\source\repos\ScheduleNow1\Program.cs:line 60
+ClientConnectionId:90c1ed49-7aba-4b8f-ad3a-3d44957627f9
+Error Number:208,State:1,Class:16
+{-----------}2024-07-02 18:40:47:612 Task started.
+{-----------}2024-07-02 18:40:47:632 Fetching data from table: dbo.products
+{-----------}2024-07-02 18:40:47:834 An error occurred during task execution.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.productsa'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1156
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1184
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 815
+   at Dapper.SqlMapper.Query(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 737
+   at DatabaseHelper.GetDataFromTable(String tableName, IConfiguration configuration, ILogger logger) in C:\Users\udayp\source\repos\ScheduleNow1\DatabaseHelper.cs:line 23
+   at Program.Main(String[] args) in C:\Users\udayp\source\repos\ScheduleNow1\Program.cs:line 60
+ClientConnectionId:47644441-c32c-449e-9474-58e5b11b5b19
+Error Number:208,State:1,Class:16
+{-----------}2024-07-02 18:43:35:643 Task started.
+2024-07-02 18:43:35:699 Fetching data from table: dbo.products
+2024-07-02 18:43:36:591 An error occurred during task execution.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.productsa'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1156
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1184
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 815
+   at Dapper.SqlMapper.Query(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 737
+   at DatabaseHelper.GetDataFromTable(String tableName, IConfiguration configuration, ILogger logger) in C:\Users\udayp\source\repos\ScheduleNow1\DatabaseHelper.cs:line 23
+   at Program.Main(String[] args) in C:\Users\udayp\source\repos\ScheduleNow1\Program.cs:line 60
+ClientConnectionId:ad84b2c7-546b-436d-a6fa-721597ef6009
+Error Number:208,State:1,Class:16
+2024-07-02 18:43:36:642 ----------------------------
+2024-07-02 18:44:47:193 Task started.
+2024-07-02 18:44:47:313 Fetching data from table: dbo.products
+2024-07-02 18:44:48:000 An error occurred during task execution.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.productsa'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1156
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1184
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 815
+   at Dapper.SqlMapper.Query(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 737
+   at DatabaseHelper.GetDataFromTable(String tableName, IConfiguration configuration, ILogger logger) in C:\Users\udayp\source\repos\ScheduleNow1\DatabaseHelper.cs:line 23
+   at Program.Main(String[] args) in C:\Users\udayp\source\repos\ScheduleNow1\Program.cs:line 60
+ClientConnectionId:5533c521-1119-4d8e-ab7b-36b22c4e9f7e
+Error Number:208,State:1,Class:16
+2024-07-02 18:44:48:042 
+----------------------------
+2024-07-02 18:45:47:872 Task started.
+2024-07-02 18:45:47:891 Fetching data from table: dbo.products
+2024-07-02 18:45:48:173 An error occurred during task execution.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'dbo.productsa'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1156
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1184
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 815
+   at Dapper.SqlMapper.Query(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 737
+   at DatabaseHelper.GetDataFromTable(String tableName, IConfiguration configuration, ILogger logger) in C:\Users\udayp\source\repos\ScheduleNow1\DatabaseHelper.cs:line 23
+   at Program.Main(String[] args) in C:\Users\udayp\source\repos\ScheduleNow1\Program.cs:line 60
+ClientConnectionId:394e683d-e51e-4e15-87d4-80c12283834d
+Error Number:208,State:1,Class:16
+2024-07-02 18:45:48:190 
+----------------------------

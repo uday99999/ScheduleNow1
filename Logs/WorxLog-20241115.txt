@@ -1,0 +1,14 @@
+2024-11-15 16:17:07:970 Task started.
+2024-11-15 16:17:08:333 Fetching data from database
+2024-11-15 16:17:09:992 Fetched 18 records from database
+2024-11-15 16:17:10:280 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20241115.csv
+2024-11-15 16:17:10:393 Writing to CSV file completed.
+2024-11-15 16:17:10:395 Task completed.
+------------------------------
+2024-11-15 16:23:40:529 Task started.
+2024-11-15 16:23:40:629 Fetching data from database
+2024-11-15 16:23:41:330 Fetched 18 records from database
+2024-11-15 16:23:41:355 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20241115.csv
+2024-11-15 16:23:41:448 Writing to CSV file completed.
+2024-11-15 16:23:41:451 Task completed.
+------------------------------

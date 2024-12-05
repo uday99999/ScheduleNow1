@@ -1,0 +1,14 @@
+2024-07-04 14:51:15:015 Task started.
+2024-07-04 14:51:15:583 Fetching data from table: dbo.products
+2024-07-04 14:51:16:927 Fetched 18 records from table: dbo.products
+2024-07-04 14:51:17:597 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240704.csv
+2024-07-04 14:51:17:706 Writing to CSV file completed.
+2024-07-04 14:51:17:709 Task completed.
+------------------------------
+2024-07-04 14:57:57:127 Task started.
+2024-07-04 14:57:57:750 Fetching data from database
+2024-07-04 14:57:58:702 Fetched 18 records from database
+2024-07-04 14:57:59:331 Writing records to CSV file: C:\Users\udayp\source\repos\ScheduleNow1\LoginData\yourfile-20240704.csv
+2024-07-04 14:57:59:453 Writing to CSV file completed.
+2024-07-04 14:57:59:458 Task completed.
+------------------------------
